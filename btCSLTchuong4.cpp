@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
-using namespace std;
 void bai1(){
     int n,m; 
     printf("Bai 1:\nNhap 2 so: ");
